@@ -15,3 +15,9 @@ The app or technology layer should not control the Nook. It should act as a memo
 ## Design principle
 
 Patterns travel. Prescriptions do not.
+
+## Related writing
+
+For the fuller essays and ongoing reflections, see the Parents’ Nook Lab:
+
+https://parents-nook.ghost.io/lab/
